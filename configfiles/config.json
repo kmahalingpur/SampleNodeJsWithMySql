@@ -1,0 +1,8 @@
+{
+    "dbhost": "127.0.0.1",
+    "dbuser": "test",
+    "dbpassword": "test",
+    "dbdatabase": "Company",
+    "dbcharset": "utf8",
+    "session_timeout":"10m"
+}
